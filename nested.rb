@@ -17,7 +17,7 @@ def hopper
         }
      }
      
-     programmer_hash[0]
+     return programmer_hash[0]
   
 end 
 
