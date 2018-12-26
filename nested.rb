@@ -40,7 +40,7 @@ def alan_kay_is_known_for
         }
      }
 
-alan_kay_is_known_for[:alan_kay][:known_for]  
+  return alan_kay_is_known_for[:alan_kay][:known_for]  
 end
 
 def dennis_ritchies_language
@@ -60,7 +60,7 @@ def dennis_ritchies_language
         }
      }
      
-return programmer_hash[:dennis_ritchie][:languages]
+  return programmer_hash[:dennis_ritchie][:languages]
 end
 
 
