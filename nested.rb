@@ -40,7 +40,7 @@ def alan_kay_is_known_for
         }
      }
 
-  return alan_kay_is_known_for[:alan_kay][:known_for]  
+  return alan_kay_is_known_for[:alan_kay][:known_for].String
 end
 
 def dennis_ritchies_language
